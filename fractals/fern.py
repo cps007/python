@@ -1,5 +1,6 @@
 import random
 from PIL import Image, ImageDraw
+# prueba
 
 def fern(n=100_000,canvas_size=1000):
     """Barnsley's fern fractal ifs
